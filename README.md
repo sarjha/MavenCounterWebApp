@@ -1,3 +1,0 @@
-# MavenCounterWebApp
-MavenCounterWebApp
-bjhsdbkjvnSLDK
